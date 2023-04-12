@@ -11,7 +11,7 @@ MAPILOT is extremely easy to use. If you are familiar with the SpellSpike langua
 # 🚀 Lightweight and Fast
 MAPILOT is extremely lightweight and fast, which can make your game more user-friendly.
 
-## 🐊 Documentation
+# 🐊 Documentation
 
 ## ⚡ Activating MAPILOT
 For MAPILOT to work you need to call it. Create a "window.onload" event and set the "InitMapilot()" function to run on startup.
