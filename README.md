@@ -19,7 +19,7 @@ For MAPILOT to work you need to call it. Create a "window.onload" event and set 
 ## ⚡ How to Import 3D Objects
 Importing 3D objects is extremely easy and fast. You just need to add the function and enter the directory. Here is an example:
 
-## ## ⚡ Using Graphic Post Effects
+## ⚡ Using Graphic Post Effects
 To make your graphics more beautiful, you can add After Effects. Use the EnableSpellMax() function to use them.
 
 ## ⚡ Creating Animations
