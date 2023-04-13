@@ -1,8 +1,13 @@
 ![Wesley Y](https://raw.githubusercontent.com/NervousGroove/MachineCopilot/main/mapilot60.png)
 
 # 🐉 MachineCopilot
-MachineCopilot or just MAPILOT is a 3D game development engine built into SpellSpike created by SwankyNoob. MachineCopilot is a SpellSpike library and can be imported using the following code:
+MachineCopilot or just MAPILOT is a 3D game development engine built into SpellSpike created by SwankyNoob.
+
+# 🚀 SpiLib Code (To Import)
+MachineCopilot is a SpellSpike library and can be imported using the following code:
+```javascript
 ImportMachineCopilot()
+```
 
 # 👾 Ultra-Realistic Graphics
 MAPILOT uses WebGL graphics enhanced by SpellMax, and is ultra-realistic and high-tech.
