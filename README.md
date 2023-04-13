@@ -20,18 +20,38 @@ For MAPILOT to work you need to call it. Create a "window.onload" event and set 
 
 ## ⚡ How to Import 3D Objects
 Importing 3D objects is extremely easy and fast. You just need to add the function and enter the directory. Here is an example:
-
+```javascript
+MAPImportObject()
+ObjectDirectory = "path/to/obj/file.obj"
+```
 ## ⚡ Using Graphic Post Effects
 To make your graphics more beautiful, you can add After Effects. Use the EnableSpellMax() function to use them.
 
 ## ⚡ Creating Animations
 Every game has animations. With MAPILOT it is easy to create animations. There are several animations, the easiest to use is the rotation animation. See examples:
-
+```javascript
+MAPAnim(objectName, animType, animSpeed)
+objectName = "cube"
+animType = "rotate"
+animSpeed = 0.1;
+```
 ## ⚡ Adding Textures
 Good games have textures. You will need to use textures if you want to make something more professional. To use textures is easy, you just have to indicate the directory of the texture file and the name of the object you want to texture. Here is an example:
+```javascript
+MAPTexturize(textureDirectory, texturizeThis)
+textureDirectory = "texture.png"
+```
 
 ## ⚡ Creating primitive objects
 You can create primitive objects, such as cubes, rectangles and more. See an example:
-
+```javascript
+MAPCreateCube(cubeSize)
+cubeSize = 2;
+```
 ## ⚡ Defining the position of objects
 Everything has its proper place. For example, you want to create a weapon and add it to a player's hand, you will need to define the position of that weapon. Here is an example of how to define the position:
+```javascript
+MAPSetPosition(moveThis, setPosition)
+moveThis = "cube"
+setPosition = 15;
+```
