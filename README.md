@@ -1,3 +1,5 @@
+![Wesley Y](https://img.shields.io/badge/Created%20by%20One%20Man-Started%20when%20I%20was%2014%20years%20old-blue)
+
 # 🐉 MachineCopilot
 MachineCopilot or just MAPILOT is a 3D game development engine built into SpellSpike created by SwankyNoob. MachineCopilot is a SpellSpike library and can be imported using the following code:
 ImportMachineCopilot()
