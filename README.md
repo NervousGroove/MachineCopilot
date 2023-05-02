@@ -60,3 +60,5 @@ MAPSetPosition(moveThis, setPosition)
 moveThis = "cube"
 setPosition = 15;
 ```
+
+[This repository/project/program and all others from SwankyNoob apply to the developer's terms.](https://github.com/NervousGroove/SwankyNoob/blob/main/TERMS)
